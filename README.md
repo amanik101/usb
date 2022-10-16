@@ -1,2 +1,2 @@
 # usb
-key
+key = DIMASHWSD10_
